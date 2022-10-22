@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="btneditar">Editar</string>
+    <string name="btnEliminar">Eliminar</string>
+
+
+    <string name="hint_doc_p">Documento</string>
+    <string name="hint_fecha_p">dd-mm-aaaa</string>
+    <string name="hint_correo_p">Correo</string>
+    <string name="hint_telefono_p">Telefono</string>
+    <string name="hint_direccion_p">Direccion</string>
+    <string name="hint_producto_p">Producto</string>
+    <string name="inventory">Inventory</string>
+    <string name="buttonC">Button</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="agregar_cliente">Agregar Cliente</string>
+    <string name="agregar_proveedor">Agregar Proveedor</string>
+    <string name="agregar_sucursal">Agregar Sucursal</string>
+    <string name="crear">Crear</string>
+
+
+</resources>
